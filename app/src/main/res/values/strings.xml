@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">all 2 module</string>
+    <string name="Login">Логин</string>
+    <string name="Password">Пароль</string>
+    <string name="Entry">Вход</string>
+    <string name="login">LOGIN</string>
+    <string name="Name">Имя</string>
+    <string name="Username">Фамилия</string>
+    <string name="Registry">Регистрация</string>
+    <string name="Delete_cash">Удалить КЭШ</string>
+</resources>
